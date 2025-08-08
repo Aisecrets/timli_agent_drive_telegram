@@ -1,0 +1,1 @@
+def classify_request_type(msg): return 'general'

@@ -1,0 +1,1 @@
+def generate_offer(client, amount): return 'ok'

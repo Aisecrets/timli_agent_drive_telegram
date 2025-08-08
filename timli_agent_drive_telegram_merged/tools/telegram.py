@@ -1,0 +1,1 @@
+def send_telegram_message(chat_id, text): return 'ok'

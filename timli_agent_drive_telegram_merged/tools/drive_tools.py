@@ -1,0 +1,1 @@
+def upload_pdf_from_base64(b64,client,filename): return 'ok'

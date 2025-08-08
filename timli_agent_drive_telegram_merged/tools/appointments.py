@@ -1,0 +1,1 @@
+def create_appointment(date, client): return 'ok'
